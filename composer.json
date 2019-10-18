@@ -1,0 +1,15 @@
+{
+    "name": "mesadhan/firebase",
+    "description": "PHP Tutorial",
+    "type": "project",
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Md. Sadhan Sarker",
+            "email": "cse.sadhan@gmail.com"
+        }
+    ],
+    "require": {
+        "kreait/firebase-php": "4.34"
+    }
+}
